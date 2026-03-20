@@ -23,10 +23,6 @@ I'm a **Senior Software Engineer** at **Citrix** with a passion for building sca
 - **Interests:** Still a gamer at heart 🎮. I love **Chess** ♟️, **Pool** 🎱, **Image Processing**, and **AI**.
 - **Philosophy:** *"A glass which is full has no room for more water."* I keep mine half-empty, always ready for the next drop of knowledge.
 
-### 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhuban94&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuban94&layout=compact&theme=radical)
-
 ### 📬 Connect with me
 - 🌐 Portfolio: [bhuban.dev](https://bhuban.dev) (In development)
 - 💼 LinkedIn: [Bhubanananda Chhatriya](https://www.linkedin.com/in/bhubanananda-chhatriya-2583a9a8/)
