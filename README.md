@@ -24,6 +24,6 @@ I'm a **Senior Software Engineer** at **Citrix** with a passion for building sca
 - **Philosophy:** *"A glass which is full has no room for more water."* I keep mine half-empty, always ready for the next drop of knowledge.
 
 ### 📬 Connect with me
-- 🌐 Portfolio: [bhuban.dev](https://bhuban.dev) (In development)
+- 🌐 Portfolio: [bhuban94.github.io](https://bhuban94.github.io/PublicPortfolio/)
 - 💼 LinkedIn: [Bhubanananda Chhatriya](https://www.linkedin.com/in/bhubanananda-chhatriya-2583a9a8/)
 - 📧 Email: [chhatriyab@gmail.com](mailto:chhatriyab@gmail.com)
