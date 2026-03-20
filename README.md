@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Bhubanananda! 👋
 
-<!--
-**Bhuban94/Bhuban94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer** at **Citrix** with a passion for building scalable applications and exploring the depths of technology. My journey started in the 3rd grade with Windows 95 and a dial-up connection that taught me the value of patience and curiosity.
 
-Here are some ideas to get you started:
+### 🚀 My Journey
+- **The Early Days:** From messing with Windows cursor trails to building a flickering **AsciiPacman** in C++.
+- **Academic Roots:** Studied Computer Science at **NIT Rourkela**, where I specialized in **Neural Networks** and **Image Processing** (OpenCV).
+- **Professional Growth:** Started my career at **SAP Labs**, growing from an Associate to a Software Developer, before joining **Citrix** to tackle new challenges in virtualization and cloud workspace solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** C++, TypeScript, JavaScript, Node.js, WASM
+- **Frontend:** React, HTML5, CSS3
+- **Tools & DevOps:** Git, Jenkins, Docker, Azure, Terraform
+- **Specialties:** Product Development, Scalable Systems, Problem Solving, Code & Design Reviews
+
+### 🌟 Key Projects
+- **Citrix Workspace App:** Unified digital workspace solution for Chrome OS and HTML5.
+- **SAP TM - Transport Resource Planning:** Visualization and simulation tools for global resource planning.
+- **BMW Global Sourcing Cockpit:** Custom negotiation cockpit for suppliers built on SAP SRM & HANA.
+
+### ✨ Values & Interests
+- **Values:** Independence | Discipline | Growth | Exploration | Openness
+- **Interests:** Still a gamer at heart 🎮. I love **Chess** ♟️, **Pool** 🎱, **Image Processing**, and **AI**.
+- **Philosophy:** *"A glass which is full has no room for more water."* I keep mine half-empty, always ready for the next drop of knowledge.
+
+### 📬 Connect with me
+- 🌐 Portfolio: [bhuban.dev](https://bhuban.dev) (In development)
+- 💼 LinkedIn: [Bhubanananda Chhatriya](https://www.linkedin.com/in/bhubanananda-chhatriya-2583a9a8/)
+- 📧 Email: [chhatriyab@gmail.com](mailto:chhatriyab@gmail.com)
